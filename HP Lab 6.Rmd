@@ -26,4 +26,4 @@ hp_graph = hp_data %>%
 
 hp_graph
 ```
-
+Typing this statement for lab. 
